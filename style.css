@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, beige, #836953, #695442);
+}
+p{
+    text-align: center;
+    color: burlywood;
+    font-size: 20px;
+}
+#image{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+}
